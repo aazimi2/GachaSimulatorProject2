@@ -1,8 +1,5 @@
 {
-    "Simple Gacha": "In this simple gacha, the rates are normalized and simplified, with no pity system.",
-    "Simple Gacha": "You likely won't find a gacha like this in the market where it's simplified and true RNG.",
+    "Simple Gacha": "In this simple gacha, the rates are normalized and simplified, with no pity system. You likely won't find a gacha like this in the market where it's simplified and true RNG.",
     "Star Gacha": "Did you know? There are often pity formulas implemented in actual gachas to allow players to have a high or guaranteed chance of obtaining something after a certain number of pulls.",
-    "Star Gacha": "In many gachas like this one, rarity/star systems often won't start from 1 or even 2 stars. it'll often be 3-5 stars or even 6 stars!",
-    "Boat Gacha": "For this gacha, an Ultra Rare is guaranteed every 200 pulls until 800 no matter what, serving as a static pity to get Ultra Rare from it up to four times.",
-    "Boat Gacha": "The rates in this gacha are a bit more generous than most gachas in the market, but the hard pity is much higher."
+    "Boat Gacha": "For this gacha, an Ultra Rare is guaranteed every 200 pulls until 800 no matter what, serving as a static pity to get Ultra Rare from it up to four times."
 }
